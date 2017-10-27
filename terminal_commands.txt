@@ -1,0 +1,11 @@
+cd
+ls
+pwd
+touch cookies.txt
+mkdir recipes
+rm
+git add target
+git commit
+git commit -m 'commit message' path/to/file
+git push
+git push origin remote
