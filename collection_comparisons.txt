@@ -1,0 +1,12 @@
+List/Array:
+In python, lists are arrays, which is a list of variables of multiple types. You references items in the array with an index.
+
+
+Dictionary/Hash table:
+Dictionaries are hash tables in python, which is a collection of keys and values. There is only one 'value' for any given key. Dictionaries are optimized for looking up values.
+
+Tuples:
+Tuples are sets. Values are distinct. Tuples are optimized to see if an item exists in the tuple.
+
+Generator:
+In Python, a generator is an object that can be looped over and can output values one at a time instead of delivering them all at once. This is preferred if you want to avoid greedy processes.

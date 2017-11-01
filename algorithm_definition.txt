@@ -1,0 +1,5 @@
+Problem 5: Algorithm Definition
+
+An algorithm is a series of steps to take in order to solve a problem.
+
+e.g. If you're looking for a book by John Smith at the library, you'll look for the section where the author's name's start with 'S', then you'll find the authors who's last names start with 'Sm', etc. until you find books by John Smith.

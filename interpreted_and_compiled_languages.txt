@@ -1,0 +1,9 @@
+Problem 4: Interpreted and Compiled Languages
+
+Interpreted languages have an interpreter that analyzes source code on the fly, which enables it to have an interpreted mode where you can test snippets of code.
+
+Interpreted languages tend to be higher level, which requires significant levels of abstraction and memory, but also results in easy to understand syntax. Technologies that aren't computationally intensive are generally better suited for interpreted languages. This can include frontend web development and some server-side development.
+
+Compiled languages require a compiler which links source code and it's dependencies and creates machine code that runs in a VM like Java, or runs directly on the the hardware like C/C++.
+
+Compiled languages interact closely with their underlying architectures, and tend to have have better memory management. Tasks that are more computaionally intensive are more suited for compiled languages. Examples of these tasks would include video games, operating systems, and embedded systems
